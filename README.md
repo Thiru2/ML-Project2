@@ -112,7 +112,7 @@ OK
 
 **Run the demo:**
 
-- python3 demo/demo.py
+- python demo/demo.py
 
 **Expected output:**
 
